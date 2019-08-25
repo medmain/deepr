@@ -3,6 +3,6 @@
 	<br>
 </h1>
 
-Deepr started at [Medmain](https://medmain.com), but it is now developed independently within the [Layr organization](https://github.com/layrjs).
+Deepr started at [Medmain](https://medmain.com), but it is now developed independently within the [Deepr organization](https://github.com/deeprjs).
 
-Please visit the [new repository](https://github.com/layrjs/deepr) for any upcoming changes.
+Please visit the [new repository](https://github.com/deeprjs/deepr) for any upcoming changes.
